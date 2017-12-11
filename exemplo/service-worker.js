@@ -9,4 +9,4 @@ self.addEventListener('active',function(e){
 self.addEventListener('fetch',function(e){
     console.log('[ServiceWorker] Fetch');
 });
-teste
+
